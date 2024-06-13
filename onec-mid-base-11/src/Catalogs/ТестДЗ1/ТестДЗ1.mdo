@@ -7,14 +7,14 @@
     <listType typeId="60fee864-e588-4779-a0d7-1e7ee7ae68bb" valueTypeId="d83d3f75-c24d-4191-9b16-034838ced2e3"/>
     <managerType typeId="f47c4fc3-68af-4779-a9a1-3c2141efca93" valueTypeId="484dde2b-fb1e-40c7-b0fb-00c271dcdc62"/>
   </producedTypes>
-  <name>ТестДЗ</name>
+  <name>ТестДЗ1</name>
   <synonym>
     <key>ru</key>
-    <value>Тест ДЗ</value>
+    <value>Тест д з1</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ТестДЗ.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.ТестДЗ.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ТестДЗ1.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ТестДЗ1.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
